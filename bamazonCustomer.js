@@ -32,6 +32,8 @@ let headerDisplay = function() {
     head: ["item_id", "product_name", "price"],
     colWidths: [10, 50, 50, 10]
   });
+
+  //loops throught the information in the db
   for (let i = 0; i < res.length; i++) {
     table.push([res[i].item_id, res[i].product_name, res[i].price]);
   }
