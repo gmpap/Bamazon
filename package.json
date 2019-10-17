@@ -2,7 +2,7 @@
   "name": "bamazon",
   "version": "1.0.0",
   "description": "bamazon custumer",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/gmpap/Bamazon.git"
   },
-  "author": "",
+  "author": "George Pap",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gmpap/Bamazon/issues"
